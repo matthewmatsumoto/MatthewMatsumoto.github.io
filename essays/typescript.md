@@ -9,44 +9,14 @@ labels:
   - Software development
 ---
 
-*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+## Typescript? I barely know Java!
 
-One of my friends asked the question earlier last week -- why is it so hard to be an officer for the student branch? Why is so hard compared to working at my on-campus job? This question came after he struggled a little with bookkeeping for the student organization.
+First thing I want to make clear, is that I'm not a great coder. Java and C were simply OK. Typescript felt like such coding languages, but with a lot more annoying syntax formatting. Having to learn a new coding language in around 4 days also made this experience suboptimal to say the least. The pace changing from learning a language in 2 semesters to one in 4 days was quite the shock. Despite this, I'm trying my very hardest to understand and practice this language. Thankfully, my current ICS314 course gives frequent practice problems to do with no pressure of making errors- something that led to me heavily relying on chatGPT in previous classes.
 
-Now I gave him the standard answer - being an officer of an organization requires that you manage your time between school and work. There isn't anyone telling you what to do. It's the answer any good mentor would give, and is mostly true.
+## Reflection on practice
 
-But the more I though about it, the more I wondered to myself...damn that's a really great question; it's one that deserves some more thought. Most people I think stop at the answer I gave previously - he obviously isn't managing his time properly.
+When it came to the WODs (workouts of the day), I feel like I knew the general gist of it, and how I would go about completing each one. The problem, of course, is the syntax. While not exactly too different from previous languages I've learned, typescript makes things more complex- especially when you have to declare functions. Despite all this, being an assignment based on completion rather than correctness, it actually inspired me after I completed the assignment to redo it on my own, and finally figure out what I was doing wrong.
 
-Here's what I think: the difficult things will always be difficult.
+## Motivation and Confidence
 
-## In the context of programming
-
-In the context of programming, this has always been true. The difficult problems have always been different, although changes in technology can change the landscape quite a bit. "Business" type applications are the things that come to mind for me. Those types of applications are usually coupled in some way with people ... and people are awfully hard to deal with!
-
-Consider that one of the most popular content management systems is also considered the most horrible - Wordpress. But really, is there anything that fills that need? If it was so easy in the first place, where is the solution? Where's the magic CMS that is designed well enough that everyone hops on the boat to use it?
-
-Some things are just difficult - building applications that humans use is hard, and will probably be hard for at least the near future.
-
-## In the context of engineering
-
-Ever hear people ragging on engineering companies for delivering late and way over budget? Well, some engineering jobs are really difficult, especially if the requirements and funding are undulating underneath you. Because of the nature of the problem, sometimes engineering firms require large amounts of engineers and workers, inviting further problems and delays.
-
-The Honolulu Rail project at home has become this sort of poster child of failure, budget overrun and overall incompetence in Hawaii. Well, working though regulatory boards and fiscal procedures in Hawaii seems like it's a mind bogglingly difficult job to do. Granted, there might be some fishy stuff going on, but I refuse to believe that everyone is involved for nefarious reasons.
-
-The problem of creating an unprecedented public transportation backbone on an island is difficult! I'm not sure we would have done it right, even if the best people were involved.
-
-## In the context of relationships
-
-So in the end, we realize that all engineering and programming is there for a reason - to serve human needs. Maybe that's why those things are difficult, because they both involve humans and are for humans.
-
-Relationships, regardless if they're romantic or not take work. Humans are fickle creatures and relationships can come and go with the wind. To properly maintain something over time requires work. Family takes work. Marriage takes work. We live to figure out what works and what doesn't and hope that as we move forward we're improving.
-
-Relationships have always been difficult, and by nature will continue to be so.
-
-## Okay!
-
-So back to the original premise; why is being one of the club officers so difficult?
-
-And the final answer - it's supposed to be difficult, and it's supposed to challenge you, just like everything else that humans do that is difficult: programming, engineering, engaging in relationships, pondering the universe, etc.
-
-Ultimately the question you should really ask yourself if something if particularly difficult is then "is it worth it"? That is something that is context specific and only you can answer yourself.
+Failure hurts. Whenever I can't figure something out or simply can't understand a subject, I can increasingly frusturated and begin to feel hopeless. Despite this, I keep trying, and tell myself that I will eventually succeed. Eventually, I'll understand. Even though the present often times seems uncertain, you have to realise that all things pass, so you have to do your best to not have regrets when the future eventually comes. 
