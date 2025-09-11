@@ -45,6 +45,11 @@ A good question, polite, and concise. They provided their code in a readable for
 
 
 
+.
+
+
+
+
 
 ## Now what does a bad question look like?
 
