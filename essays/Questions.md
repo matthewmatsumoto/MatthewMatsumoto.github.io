@@ -18,7 +18,7 @@ Well, sort of. Questions are how we all learn things and being curious is define
 ## What does a good question look like?
 
 Gilly from StackOverflow had an issue with hash tables containing different element types. They provided their code in an accessible, readable manner,
-and their result in plaintext. 
+and their result in plaintext. They then recap by stating their question again, but more concise "If union is just a struct that holds 1 value at a time at 0 offset, shouldn't this work for any type as long as the formatting in printf() is correct? If not, why does this work for int and char *? float should be the biggest type out of the three too, so it shouldn't be cut or something. And since printing fp.fval works correctly, it should be the case. I'm confused. "
 
 [Good Example](https://stackoverflow.com/questions/79758388/how-does-printing-a-union-itself-and-not-its-member-work-in-c)
 
