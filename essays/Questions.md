@@ -21,10 +21,9 @@ From user Gilly on github:
 
  <img width="200px" class="rounded float-start pe-4" src="../img/github-example.png" >
 
+A good question, polite, and concise. No wonder he got many upvotes and responses!
 
-"This is my first time using the website so idk how to upload an image
+## Now what does a bad question look like?
 
-I'm trying to use the if-else for the first time and whenever the condition is met the code under of is not executed while the else codes is executed every time
 
-I thought and tried to do the if part only but the same results" - بو جدوع
 
