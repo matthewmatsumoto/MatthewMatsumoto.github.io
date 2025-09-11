@@ -19,16 +19,15 @@ Well, sort of. Questions are how we all learn things and being curious is define
 
 From user Gilly on StackOverflow: 
 
-<img width="550px" class="rounded float-start pe-4" src="../img/github-example.png" >
-                                                                                                                                                     
-                                                                                                                                                     
+[Good Example](https://stackoverflow.com/questions/79758388/how-does-printing-a-union-itself-and-not-its-member-work-in-c)
+
 A good question, polite, and concise. They provided their code in a readable format, and explained exactly what they were having trouble with. No wonder they got many upvotes and responses! 
 
 ## Now what does a bad question look like?
 
 From user بو جدوع on StackOverflow:
 
-<img width="550px" class="rounded float-start pe-4" src="../img/github-bad-example.png" >
+[Bad Example](https://stackoverflow.com/questions/79761410/how-can-i-manage-the-if-in-python)
 
 From what I understand, I don't. To be fair, judging by his name, English is not his first language, and I assume he hasn't read up on the rules of posting a question. Despite this, the question is very trivial, something a simple Google search could solve. They did not provide any code, and proof of error, and nothing to work with. 
 
