@@ -1,0 +1,33 @@
+---
+layout: essay
+type: essay
+title: "How Not to Ask Stupid Questions"
+# All dates must be YYYY-MM-DD format!
+date: 2025-10-09
+published: true
+labels:
+  - Software development
+  - Troubleshooting
+  - Coding
+---
+
+## "There are no stupid questions right?"
+
+  Well, sort of. Questions are how we all learn things and being curious is definetely much more of a good trait to have than a bad one. Everybody is a beginner at some point, and even the most simple questions to anyone experienced enough may leave a newbie stumped. Eric Steven Raymond- although a controversial somewhat controversial figure, gives great points. "Try to search for the answer on google first, try reading a manual, try ask a friend, don't ask multiple websites, don't spam a question forum, don't post a question that is off topic, etc." If it's a very basic question, while someone before you was probably the first ask, then there is most likely an easy answer to that online. Be as detailed as possible. You can't expect someone to understand your question if you're vague about it. Send questions in accessible format plain text. Just ask the question how it is in as much detail as possible, be patient, and of course, be nice about it. 
+
+## What does a good question look like?
+
+From user Gilly on github: "I'm making a hashtable in C that I want to contain elements of different types, so I made it return a union that can hold int, float or char *. But when trying to print the union itself out, float gets printed as 0.
+
+So it looks like this:" *includes code in a viewable and accessible manner* 
+
+
+
+"This is my first time using the website so idk how to upload an image
+
+I'm trying to use the if-else for the first time and whenever the condition is met the code under of is not executed while the else codes is executed every time
+
+I thought and tried to do the if part only but the same results" - بو جدوع
+
+
+
