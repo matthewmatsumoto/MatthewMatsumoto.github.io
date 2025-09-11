@@ -21,6 +21,14 @@ From user Gilly on github:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/github-example.png" >
 
+
+
+
+
+
+
+
+
 A good question, polite, and concise. They provided their code in a readable format, and explained exactly what they were having trouble with. No wonder they got many upvotes and responses! 
 
 
@@ -42,6 +50,14 @@ A good question, polite, and concise. They provided their code in a readable for
 From user بو جدوع on github:
 
 <img width="200px" class="rounded float-start pe-4" src="../img/github-bad-example.png" >
+
+
+
+
+
+
+
+
 
 From what I understand, I don't. To be fair, judging by his name, English is not his first language, and I assume he hasn't read up on the rules of posting a question. Despite this, the question is very trivial, something a simple Google search could solve. They did not provide any code, and proof of error, and nothing to work with. 
 
