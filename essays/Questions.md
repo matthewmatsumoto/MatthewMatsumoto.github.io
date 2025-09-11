@@ -17,9 +17,9 @@ Well, sort of. Questions are how we all learn things and being curious is define
 
 ## What does a good question look like?
 
-From user Gilly on github: 
+From user Gilly on StackOverflow: 
 
-<img width="1080px" class="rounded float-start pe-4" src="../img/github-example.png" >
+<img width="750px" class="rounded float-start pe-4" src="../img/github-example.png" >
 
 
 
@@ -53,9 +53,9 @@ A good question, polite, and concise. They provided their code in a readable for
 
 ## Now what does a bad question look like?
 
-From user بو جدوع on github:
+From user بو جدوع on StackOverflow:
 
-<img width="1080px" class="rounded float-start pe-4" src="../img/github-bad-example.png" >
+<img width="750px" class="rounded float-start pe-4" src="../img/github-bad-example.png" >
 
 
 
