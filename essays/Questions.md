@@ -23,6 +23,20 @@ From user Gilly on github:
 
 A good question, polite, and concise. They provided their code in a readable format, and explained exactly what they were having trouble with. No wonder they got many upvotes and responses! 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ## Now what does a bad question look like?
 
 From user بو جدوع on github:
