@@ -19,7 +19,7 @@ Well, sort of. Questions are how we all learn things and being curious is define
 
 From user Gilly on github: 
 
-<img width="200px" class="rounded float-start pe-4" src="../img/github-example.png" >
+<img width="1920px" class="rounded float-start pe-4" src="../img/github-example.png" >
 
 
 
@@ -55,7 +55,7 @@ A good question, polite, and concise. They provided their code in a readable for
 
 From user بو جدوع on github:
 
-<img width="200px" class="rounded float-start pe-4" src="../img/github-bad-example.png" >
+<img width="1920px" class="rounded float-start pe-4" src="../img/github-bad-example.png" >
 
 
 
