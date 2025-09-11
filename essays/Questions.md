@@ -17,7 +17,8 @@ Well, sort of. Questions are how we all learn things and being curious is define
 
 ## What does a good question look like?
 
-From user Gilly on StackOverflow: 
+Gilly from StackOverflow had an issue with hash tables containing different element types. They provided their code in an accessible, readable manner,
+and their result in plaintext. 
 
 [Good Example](https://stackoverflow.com/questions/79758388/how-does-printing-a-union-itself-and-not-its-member-work-in-c)
 
@@ -25,7 +26,7 @@ A good question, polite, and concise. They provided their code in a readable for
 
 ## Now what does a bad question look like?
 
-From user بو جدوع on StackOverflow:
+User بو جدوع on StackOverflow asked how to use the if else statement on python. 
 
 [Bad Example](https://stackoverflow.com/questions/79761410/how-can-i-manage-the-if-in-python)
 
