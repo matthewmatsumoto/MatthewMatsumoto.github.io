@@ -2,8 +2,8 @@
 layout: project
 type: project
 image: 
-title: "No leg left behind"
-date: 2025
+title: "No legs left behind"
+date: 2024
 published: true
 labels:
   - time management
@@ -11,21 +11,4 @@ labels:
 summary: "The only new-years resolution I stuck to; dont miss a leg day."
 ---
 
-
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+The year was 2024. I'd been going to the gym for 2 years by then, and leg day was more of an after thought. I had a routine, of course, but I would typically just work out another muscle group rather than do a full leg day. Come new years, I'm celebrating with my friends and one of them brings up resolutions. I jokingly say "I won't skip a leg day this entire year" fully planning on breaking it in about a month. Well turns out, legs are very important, and having chicken legs while you have a defined upper body is extremely embarassing. Despite being the hardest, and least favorite of mine, I kept consistent. After 3 months, I had forgotten about the resolution, as I was automatically fitting a leg day into every single week. As I'm writing this near the end of 2025, I can say with confidence, I have never missed a leg day with exception of being sick, or on a trip. So take this as motivation I guess. One day or day one typa thing you know?
