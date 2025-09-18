@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/pickaxe.png
 title: "Minecraft Texturing"
 date: 2021
 published: true
