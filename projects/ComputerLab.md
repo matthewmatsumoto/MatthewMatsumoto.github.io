@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/ComputerLab.png
+image: img/Computerlab.png
 title: "Computer lab"
 date: 2025
 published: true
