@@ -12,7 +12,7 @@ labels:
   - problem solving
   - networking 
 
-summary: "It's just setting up new computers. How hard could that be"
+summary: "A summer-long project setting up a new computer lab in Manoa's AgSci building"
 ---
 
 I've been working for miller hall since the beginning of summer. Aside from typical office work, I'm also their unofficial "IT guy". I say that with heavy emphasis on unofficial, because for one, my job title is technically clerical worker. And 2, I was basically the only person that was tech literate throughout the entire building. Don't take this as me complaining, because being able to start doing anything computer related is more my speed, and of course, looks good on my resume. 
