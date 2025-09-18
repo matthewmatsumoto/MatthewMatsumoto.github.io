@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Matthew Matsumoto",
-    "label": "Student",
+    "label": "Junior IT and Security specialist",
     "picture": "https://github.com/MatthewMatsumoto.png",
     "email": "mm384@hawaii.edu",
     "phone": "808-723-5513",
@@ -40,6 +40,18 @@
     }
   ],
   "work": [
+      {
+      "company": "Tamura's Fine Wines",
+      "position": "Poke Server",
+      "website": "",
+      "startDate": "2024-05-20",
+      "endDate": "2024-07-31",
+      "summary": "Serve poke to customers and help clean store",
+      "highlights": [
+        "Serve and handle food, customer service, sanitation.",
+
+      ]
+    },
     {
       "company": "UH Manoa Miller Hall",
       "position": "IT and clerical worker",
@@ -50,6 +62,7 @@
       "highlights": [
         "Help with IT related issues, troubleshoot, and physical computer setup",
         "Perform miscellanious office tasks"
+
       ]
     },
   ],
