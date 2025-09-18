@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: #Computerlab#
 title: "Computer lab"
 date: 2025
 published: true
