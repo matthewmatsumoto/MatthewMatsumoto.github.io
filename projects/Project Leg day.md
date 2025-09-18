@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/squat.png
 title: "No legs left behind"
 date: 2024
 published: true
