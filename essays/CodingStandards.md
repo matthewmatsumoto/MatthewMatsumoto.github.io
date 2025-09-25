@@ -13,6 +13,8 @@ labels:
   - VSCode
 ---
 
+Summary: My 2 cents about coding standards
+
 ## Syntax errors 
 
 When I first started coding, my biggest worry was with syntax. From my prior knowledge, I knew that syntax mattered. Whether it be a missing bracket, or mispelled word, just one mistake could invalidate your entire code. Unfortunately, those fears materialized, especially with html and typescript. Being used to java having (relatively) simple syntax, the coding standanrds of html, js, and ts were a wakeup call. 
