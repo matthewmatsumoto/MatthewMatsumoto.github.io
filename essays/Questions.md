@@ -2,7 +2,6 @@
 layout: essay
 type: essay
 title: "How Not to Ask Stupid Questions"
-image: img/Computerlab.png
 # All dates must be YYYY-MM-DD format!
 date: 2025-10-09
 published: true
