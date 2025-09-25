@@ -2,7 +2,7 @@
 layout: essay
 type: essay
 title: "Coding Standards"
-image:  img/molly-maluhia.jpeg
+image:  img/github-example.png
 # All dates must be YYYY-MM-DD format!
 date: 2025-9-24
 published: true
