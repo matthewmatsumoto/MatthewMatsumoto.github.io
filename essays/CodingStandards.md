@@ -11,9 +11,10 @@ labels:
   - Html
   - Typescript
   - VSCode
-summary: My 2 cents about coding standards
 ---
-
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/CodingImage.png" >
 
 ## Syntax errors 
 
