@@ -6,6 +6,7 @@ image:  img/github-example.png
 # All dates must be YYYY-MM-DD format!
 date: 2025-9-24
 published: true
+Summary: My 2 cents about coding standards
 labels:
   - Software development
   - Html
@@ -13,7 +14,6 @@ labels:
   - VSCode
 ---
 
-Summary: My 2 cents about coding standards
 
 ## Syntax errors 
 
