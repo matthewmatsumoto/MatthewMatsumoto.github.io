@@ -21,12 +21,11 @@ Why use an automatic website builder when you can make a website from scratch? B
 
 Using HTML was a very easily digestible language, but that's probably because the projects written with html were a lot more simple. It was nostalgic seeing my html websites, reminding me of the late 2000's where most websites were just text, pictures, and very interesting color choices. Bootstrap, felt a lot more modern and streamlined. It was much easier to make something as complex as a navigation bar and menu, which would have taken forever in HTML. Bootstrap was still a lot to take in, and I still don't fully understand how to format a navigation bar. Overall, I enjoyed making functional websites much more than the random javascript and typescript programs we made. 
 
-## For comparison, top is HTML, bottom is Bootstrap
+## For comparison, left is HTML, right is Bootstrap
 <img width="500px"                             
      class="rounded float-start pe-4" 
      src="../img/HTMLexample.png" >
-
 <img width="500px"                             
      class="rounded float-start pe-4" 
-     src="../img/BoostrapExample.png" >
+     src="../img/BootsrapExample.png" >
 
