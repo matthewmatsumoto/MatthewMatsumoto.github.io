@@ -27,5 +27,5 @@ Using HTML was a very easily digestible language, but that's probably because th
      src="../img/HTMLexample.png" >
 <img width="500px"                             
      class="rounded float-start pe-4" 
-     src="../img/BootsrapExample.png" >
+     src="../img/BootstrapExample.png" >
 
