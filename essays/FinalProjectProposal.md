@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: “Final Project Proposal”
+title: Final Project Proposal
 date: 2025-11-04
 labels:
   - Software Engineering
@@ -10,7 +10,7 @@ labels:
 
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/collaborationImage.png" >
+     src="../img/collaborationImage.jpg" >
 
 # Project Team UHP!
 
