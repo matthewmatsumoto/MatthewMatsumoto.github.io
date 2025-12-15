@@ -47,9 +47,17 @@ Writing code: I'm not the best at writing code from scratch, so I often relied o
 
 Documenting code: I never used AI to help document code. Although it was very accurate when it came to documentation, I never found a real use for it as most of the assignments were a one and done thing, and was graded on if it worked properly, not commenting on how the code worked. Additionally, when AI generated or fixed code, it would auto document anyways. 
 
-Quality assurance e.g. “What’s wrong with this code <code here>” or “Fix the ESLint errors in <code here>”: For quality assurance, I heavily relied on AI to help me. AI is perfect for this task, as it can read and point out mistakes the average human would not catch. Most of my questions were usually like this: Why doesn't this code (code) do (intended use). Or Can you fix this code to make it (do what its supposed to do). 
+Quality assurance e.g. “What’s wrong with this code (code here)” or “Fix the ESLint errors in (code here)”: For quality assurance, I heavily relied on AI to help me. AI is perfect for this task, as it can read and point out mistakes the average human would not catch. Most of my questions were usually like this: Why doesn't this code (code) do (intended use). Or Can you fix this code to make it (do what its supposed to do). 
 
 ## Impact of AI on my learning and understanding. 
 
 Having AI as a tool is both a blessing and a curse. On one hand, it can perform many tasks and solve a plethora or issue with great accuracy. On the other hand, most of the time, it's being prompted to provide an answer rather than explain it, leading to a solved problem, but nothing learned. The best way to learn something is to practice yourself, but if that practice is easily doable with a simple prompt, then you won't end up learning anything at all. This is concerning for many reasons, and studies are already being conducted on the negative impact on AI. I personally think that AI is good in moderation, or when you simply cant find the answer to a problem. 
+
+## Practical Applications
+
+Outside of this class, AI has been and will continue to be used throughout many projects. From my personal experience, I have seen AI be applied to video games. The issue of lower count or difficulty of a game is solved using bots. Bots, are computer operated characters that are mixed in with real players. Before the advancement of AI, bots were easy to identify with their choppy, unrealistic movemenets. But now, with many bot models using player data and activity as their model, they are much more "life-like" and sometimes even indistinguishable from a real human player. Other than that, almost every major company has AI chatbots built into their applications with varying success. 
+
+## Challenges and Opportunities
+
+The biggest challenge with AI is it's inability to comprehend context. This is often seen with language translation, having many errors without understanding the context and way a message is conveyed. This also applies to Software engineering. Oftentimes, you have to provide a lot of code and context for it to give you a good answer. If not, it will make various assumptions leading to an innacurate or undesirable answer. Despite all these downsides, AI, whether you like it or not, is the future of software engineering. Teaching future classes proper and effective ways to use it would be beneficial to their overall career. 
 
