@@ -15,7 +15,7 @@ labels:
 ---
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/Check.png" >
+     src="../img/AI.jpg" >
 
 ## An Intelligent Tool
 
