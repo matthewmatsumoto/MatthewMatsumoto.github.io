@@ -61,3 +61,14 @@ Outside of this class, AI has been and will continue to be used throughout many 
 
 The biggest challenge with AI is it's inability to comprehend context. This is often seen with language translation, having many errors without understanding the context and way a message is conveyed. This also applies to Software engineering. Oftentimes, you have to provide a lot of code and context for it to give you a good answer. If not, it will make various assumptions leading to an innacurate or undesirable answer. Despite all these downsides, AI, whether you like it or not, is the future of software engineering. Teaching future classes proper and effective ways to use it would be beneficial to their overall career. 
 
+## Comparative Analysis
+
+AI can be an extremely useful tool for teachers and students to learn a subject. From my experiences, AI can explain a subject clearly in seconds, straight to the point, and able to provide examples. Despite this, teachers can teach subjects with the necessary context, which AI can't yet do. Overall, AI, when used as a teacher rather than a "homework machine" can be the new way to understand even the most difficult subjects. 
+
+## Future Consideration
+
+AI is basically synonymous with software engineering. If you're not using AI, you're behind. The advantages it brings consist of better efficiency, catching errors, and generating code, just to name a few. Because AI is relatively new, most computer sciences classes don't know how to properly integrate it's use into a learning environment. AI has become a new tool for all software engineers to use, and its more important than ever to learn how to use it. Despite this, it could stunt student learning growth. If relied on too much, a student may not know certain knowledge required to further progress in software engineering. Limiting AI use to certain aspects of the class can prevent this. 
+
+## Conclusion
+
+Overall, AI is not inherently a bad thing. It's ability to teach with the knowledge of millions of databases, archives, and research papers is simply undeniable. Concerninglt though, AI is moving at a fast pace, and younger and younger people are using chatGPT as a cheating method instead of a teacher. It's really a double edges sword, and we must be careful with how we utilize it in the future. It's not only a computer science tool, but a tool for the concievable future of humanity. 
