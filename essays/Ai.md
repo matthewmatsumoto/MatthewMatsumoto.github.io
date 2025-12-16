@@ -12,6 +12,7 @@ labels:
   - Typescript
   - VSCode
   - Project Creation
+  - AI
 ---
 <img width="200px" 
      class="rounded float-start pe-4" 
