@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Patterns Make Perfect"
+title: "AI and Me. What Effect Has AI Had?"
 image:  img/github-example.png
 # All dates must be YYYY-MM-DD format!
 date: 2025-12-3
