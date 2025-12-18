@@ -32,7 +32,7 @@ Tracking my actual effort was slightly useful, as the time estimations I made fo
 
 ## Tracking my Effort
 
-Tracking my own effort through the semester was quite easy for me. The fact that I finished most WODs with DNF's which ranged from a few minutes to multiple hours over the max limit, I would just put "DNF". Specifically calculating by how much time I did not finish was unecessary, as there was no "time" after DNF. 
+Tracking my own effort through the semester was quite easy for me. The fact that I finished most WODs with DNF's which ranged from a few minutes to multiple hours over the max limit, I would just put "DNF". Specifically calculating by how much time I did not finish was unnecessary, as there was no "time" after DNF. 
 
 ## Reflection
 
