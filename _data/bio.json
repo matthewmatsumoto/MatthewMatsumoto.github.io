@@ -24,12 +24,17 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Bootstrap", "HTML", "Web Application Design"]
     },
   
   ],
   "education": [
     {
+      "institution": "Mililani High School, Mililani, HI",
+      "studyType": "Highschool Diploma",
+      "startDate": "2019-08-15"
+      "endDate": "2023-05-12"
+      
       "institution": "University of Hawaii, Honolulu, HI",
       "area": "Computer Science with emphasis on security (expected Spring, 2027)",
       "studyType": "B.S.",
@@ -46,7 +51,7 @@
       "website": "",
       "startDate": "2024-05-20",
       "endDate": "2024-07-31",
-      "summary": "Serve poke to customers and help clean store",
+      "summary": "Serve poke to customers and help take care of the store",
       "highlights": [
         "Serve and handle food, customer service, sanitation.",
 
