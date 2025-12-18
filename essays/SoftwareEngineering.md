@@ -19,7 +19,7 @@ labels:
 
 ## A Semester Recap
 
-Software Engineering was a difficult class, but a great learning experience. Not only did it teach me how to build and configure web applications, but it also taught me various other fundementals such as open source software development, UI frameworks, agile project management. This class was my first taste in web applications, and "professional" project building. Along with this, I learned about important social networking sites such as LinkedIn, and Slack. Unlike the other computer science classes I've taken, this one gave me a glimpse into the real world of software engineering jobs.
+Software Engineering was a difficult class, but a great learning experience. Not only did it teach me how to build and configure web applications, but it also taught me various other fundamentals such as open source software development, UI frameworks, agile project management. This class was my first taste in web applications, and "professional" project building. Along with this, I learned about important social networking sites such as LinkedIn, and Slack. Unlike the other computer science classes I've taken, this one gave me a glimpse into the real world of software engineering jobs.
 
 ## Open Source Software Development
 
@@ -31,4 +31,4 @@ UI frameworks have to be the most helpful tool I've used this semester. They're 
 
 ## Agile Project Management
 
-In the past I've worked on projects in an agile project management style, but never was it related to computer science, and never was it to this scale. Working as a group is nothing new to me, so collaboration was the easy part. The scale of the project however, was large, and I couldn't do it by myself. To get over this obstacle, me and my group decided to split up, and work on little parts at a time to form our complete project. This was much more efficient, and less stressful, as we had our own sizable workloads rather than everything being up to one person. Overall, it was my first time experiencing such a big project in software engineering, and was very valuable experience. 
+In the past I've worked on projects in an agile project management style, but never was it related to computer science, and never was it to this scale. Working as a group is nothing new to me, so collaboration was the easy part. The scale of the project however, was large, and I couldn't do it by myself. To get over this obstacle, me and my group decided to split up, and work on little parts at a time to form our complete project. This was much more efficient, and less stressful, as we had our own sizable workloads rather than everything being up to one person. Overall, it was my first time experiencing such a big project in software engineering, and was a very valuable experience. 
