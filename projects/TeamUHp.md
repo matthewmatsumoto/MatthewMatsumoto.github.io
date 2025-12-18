@@ -11,7 +11,7 @@ labels:
   - HTML
   - Web application building
   - Team project
-summary: "A web application made to help UH Manoa students connect, and find candidates fit to help with their projects via project listings.
+summary: "A web application made to help UH Manoa students connect, and find candidates fit to help with their projects via project listings."
 ---
 
 ## It All Starts With Brainstorming
