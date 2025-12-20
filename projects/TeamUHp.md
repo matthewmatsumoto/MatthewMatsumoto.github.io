@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: img/teamuhplogo.png
-title: "Computer lab"
+title: "TeamUHp!"
 date: 2025
 published: true
 labels:
