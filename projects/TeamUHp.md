@@ -22,8 +22,25 @@ From the very beginning, we had a good idea of what our application would be. Te
 
 TeamUHp is a collaborative web platform designed to connect people around project-based work. Users can create project listings that include key details such as required skills, number of collaborators needed, deadlines, and compensation. After logging in, users are presented with a streamlined dashboard where they can browse projects seeking collaborators or easily switch to view and manage their own listings. 
 
+<img width="500px" 
+     class="rounded float-start pe-4" 
+     src="../img/homepage.png" >
+
 # What was my role in TeamUHp?
 
 My main role in TeamUHp was to decorate the page, and provide a drafts for the landing and sign in page. Along with this, I drafted and made the logo, and landing page effects. 
 
 Despite not having the hardest job in the group, I still learned a lot about teamwork, agile project management, and working diligantly. It was my first experience being apart of a computer related group project, and was a glimpse into the software engineering field as a whole. 
+
+Below is the first draft.
+
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/Draft.png" >
+
+For more on TeamUHp!
+
+TeamUHp Github page: <link https://team-uhp.github.io/>
+
+
+     
