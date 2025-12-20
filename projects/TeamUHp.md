@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/teamuhplogo.png
+image: img/.png
 title: "TeamUHp!"
 date: 2025
 published: true
