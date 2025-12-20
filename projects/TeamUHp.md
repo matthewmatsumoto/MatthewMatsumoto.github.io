@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/Computerlab.png
+image: img/teamuhplogo.png
 title: "Computer lab"
 date: 2025
 published: true
