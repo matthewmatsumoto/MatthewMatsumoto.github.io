@@ -40,7 +40,8 @@ Below is the first draft.
 
 For more on TeamUHp!
 
-TeamUHp Github page: <link https://team-uhp.github.io/>
+TeamUHp Github page which has information on installation, about, developer guide, and more: https://team-uhp.github.io/
+
 
 
      
