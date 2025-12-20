@@ -32,9 +32,9 @@ My main role in TeamUHp was to decorate the page, and provide a drafts for the l
 
 Despite not having the hardest job in the group, I still learned a lot about teamwork, agile project management, and working diligantly. It was my first experience being apart of a computer related group project, and was a glimpse into the software engineering field as a whole. 
 
-Below is the first draft.
+Below is the first draft:P
 
-<img width="200px" 
+<img width="500px" 
      class="rounded float-start pe-4" 
      src="../img/Draft.png" >
 
